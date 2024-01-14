@@ -4,7 +4,7 @@
 <p><a href="https://www.twitter.com/#"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/#"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
 
 
-# CERTIFICATIONS AND SKILLS
+## CERTIFICATIONS AND SKILLS
 -	Certifications: Google Data Analytics Professional Certificate <br>
 -	Programming Languages: Python, R, SQL, C++, Arduino, TensorFlow, Pytorch, Pandas, numpy, scikit-learn <br>
 -	Data Visualization: Tableau, Power BI <br>
@@ -12,7 +12,7 @@
 -	Languages: Native English and Spanish speaker; Fluent in Mandarin Chinese (HSK 6) <br>
 
 
- # WORK EXPERIENCE 
+ ## WORK EXPERIENCE 
 **Acclime-November 2023 – Present**<br>
 **Business Development Analyst - Beijing, China**
 -	Conducted comprehensive market research, contributing valuable insights for strategic planning, including competitor analysis and trend identification.<br>
@@ -36,7 +36,7 @@
 **Embedded Systems Data Analyst - Beijing, China**
 -	Conducted data analysis for sensor data from the motorcycles, resulting in a 20% increase in accuracy of the sensor data and a 30% reduction in data processing time.<br>
 
- # EDUCATION 
+ ## EDUCATION 
 **Beijing Institute of Technology - September 2022 – Present**<br>
 **Master of Science in Control Science and Engineering - Beijing, China**
 -	GPA: 3.7 out of 4.0
@@ -46,7 +46,11 @@
 **Bachelor of Science in Electrical Engineering and Automation - Beijing, China**
 -	GPA: 3.6 out of 4.0<br>
 
- # Most Used Programming Languages
+## 💬HOW TO REACH ME:<br>
+✔️Linkedin: **[Marcos Garcia ](https://www.linkedin.com/in/marcos-garcia-868985212)<br>**
+✔️E-Mail: **macg.75@hotmail.com**
+
+ ## Most Used Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosgarcia75)](https://github.com/anuraghazra/github-readme-stats)
 
 

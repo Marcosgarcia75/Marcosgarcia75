@@ -20,6 +20,15 @@ I
 -	Developed and implemented Microsoft Excel and Power BI dashboards for data analysis, fostering informed decision-making.<br>
 -	Employed Python and Selenium for data scraping, extracting relevant web information to generate new leads, expanding the client base.<br>
 
+**Beijing Institute of Technology-September 2022 – Present**<br>
+**Machine Learning Research Scientist-Beijing, China**
+-	Spearheaded the development of AI software for segmenting the Aorta for medical purposes, resulting in a 30% increase in segmentation efficiency and reducing segmentation time by 50%, by creating a new network that used Boundary Attention Models in combination with U-Net using Tensorflow.<br>
+-	Conducted data analysis and manipulation using Python, R and various data engineering tools such as pandas and SQL, generating valuable insights that resulted in a 25% reduction in data processing time.<br>
+-	Presented research findings at conferences and co-authored one peer-reviewed journal articles on computer vision and deep learning in medicine.<br>
+
+
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Marcosgarcia75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marcos-garcia-868985212//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.marcosgtech.com/)  

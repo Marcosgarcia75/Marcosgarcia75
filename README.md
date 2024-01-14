@@ -46,7 +46,7 @@
 **Bachelor of Science in Electrical Engineering and Automation - Beijing, China**
 -	GPA: 3.6 out of 4.0<br>
 
-## 💬HOW TO REACH ME:<br>
+## HOW TO REACH ME:<br>
 ✔️Linkedin: **[Marcos Garcia ](https://www.linkedin.com/in/marcos-garcia-868985212)<br>**
 ✔️E-Mail: **macg.75@hotmail.com**
 

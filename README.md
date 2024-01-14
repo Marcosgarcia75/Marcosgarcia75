@@ -37,8 +37,14 @@ I
 -	Conducted data analysis for sensor data from the motorcycles, resulting in a 20% increase in accuracy of the sensor data and a 30% reduction in data processing time.<br>
 
  # EDUCATION 
+**Beijing Institute of Technology - September 2022 – Present**<br>
+**Master of Science in Control Science and Engineering - Beijing, China**
+-	GPA: 3.7 out of 4.0
 
-
+  
+**Beijing Institute of Technology - June, 2022**
+**Bachelor of Science in Electrical Engineering and Automation - Beijing, China**
+-	GPA: 3.6 out of 4.0<br>
 
 
 

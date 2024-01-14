@@ -42,7 +42,7 @@ I
 -	GPA: 3.7 out of 4.0
 
   
-**Beijing Institute of Technology - June, 2022**
+**Beijing Institute of Technology - June, 2022**<br>
 **Bachelor of Science in Electrical Engineering and Automation - Beijing, China**
 -	GPA: 3.6 out of 4.0<br>
 

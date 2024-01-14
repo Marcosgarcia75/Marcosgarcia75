@@ -13,8 +13,8 @@ I
 
 
  # WORK EXPERIENCE 
-*Acclime-November 2023 – Present
-*Business Development Analyst-Beijing, China
+**Acclime-November 2023 – Present**<br>
+**Business Development Analyst-Beijing, China**
 -	Conducted comprehensive market research, contributing valuable insights for strategic planning, including competitor analysis and trend identification.<br>
 -	Utilized various tools to optimize and streamline business procedures, enhancing overall productivity and operational efficiency.<br>
 -	Developed and implemented Microsoft Excel and Power BI dashboards for data analysis, fostering informed decision-making.<br>

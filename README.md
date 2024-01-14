@@ -1,8 +1,16 @@
 # Hi There 👋,
 ![](https://github.com/Marcosgarcia75/Marcosgarcia75/blob/main/welcome1.png?raw=true)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I 
 
+
+# CERTIFICATIONS AND SKILLS
+-	Certifications: Google Data Analytics Professional Certificate <br>
+-	Programming Languages: Python, R, SQL, C++, Arduino, TensorFlow, Pytorch, Pandas, numpy, scikit-learn <br>
+-	Data Visualization: Tableau, Power BI <br>
+-	Miscellaneous Technologies: Office Tools, Excel for Data Analysis, Git, Linux <br>
+-	Languages: Native English and Spanish speaker; Fluent in Mandarin Chinese (HSK 6) <br>
+ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Marcosgarcia75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marcos-garcia-868985212//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.marcosgtech.com/)  
